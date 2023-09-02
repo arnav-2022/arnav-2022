@@ -1,5 +1,8 @@
+## 👋 Hello Coding Enthusiasts
+Hello, I'm a 10th-grade student who recently embarked on a journey to explore the world of Python coding. I'm enthusiastic about diving deeper into the programming realm, having started my Python learning journey this summer.
+
 ## About me
-🔭&nbsp;Hello, I'm a 10th-grade student who recently embarked on a journey to explore the world of Python coding. I'm enthusiastic about diving deeper into the programming realm, having started my Python learning journey this summer.
+🔭&nbsp; I am a high school student with interest in coding and badminton.
 🌱&nbsp;Currently learning **Python, HTML, JavaScript and CSS**
 💡&nbsp;I'm interested in **Web development and Data Science**
 💬&nbsp;If you are a beginner in python, ask me how to get started!!
